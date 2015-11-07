@@ -34,9 +34,3 @@ Accepted parameters:
   "username"
 }
 ```
-
-## Account linking
-
-First, read this, seriously: https://en.wikipedia.org/wiki/OAuth
-
-The various fronts (website/apps) first need to require the oAuth link url from the API.
