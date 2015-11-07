@@ -26,3 +26,19 @@ The following types are supported:
 Example:
 
 ```GET /search?query=test&services=soundcloud&type=tracks```
+
+## Response
+
+Response are formatted this way:
+
+```
+results: [{
+    service: "serviceName",
+    result: [item1, item2, item3, etc...]
+    error: error
+    },{
+    service: "serviceName",
+    result: [item1, item2, item3, etc...]
+    error: error
+}];
+```
