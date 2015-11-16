@@ -21,7 +21,7 @@ Example:
 The following types are supported:
 
 * artists
-* tracks
+* tracks (default)
 
 Example:
 
