@@ -8,6 +8,12 @@ The various fronts (website/apps) first need to require the oAuth link url from 
 
 Where :slug is the name of the service, Facebook for example
 
+Supported oAuth services : 
+- Deezer
+- Spotify
+- Soundcloud
+- Facebook
+
 The API will redirect your request using a 302 to the actual service link page.
 
 So, the easy way to implement this is:
