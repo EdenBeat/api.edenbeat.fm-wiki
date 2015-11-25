@@ -1,0 +1,1 @@
+Just do a ```GET /logout``` (don't forget to specify your Session-Id in the headers)
