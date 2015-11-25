@@ -1,5 +1,3 @@
-## Login
-
 To login you must use the following route:
 
 ```POST /login```
