@@ -16,3 +16,9 @@ required body params:
 ```
 
 /!\ Note that the "username" can also be specified. If not, it will be generated using the mail address.
+
+Creating an account is also possible with oAuth2.
+
+Follow the classic oAuth2 flow.
+
+/!\ Only Facebook and Google+ are available for account creation on oAuth 
